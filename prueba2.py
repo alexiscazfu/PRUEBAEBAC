@@ -7,3 +7,6 @@ print(a, b , c)
 
 # branch
 f = c * 3.1416
+
+# branch 2
+g = f + d
